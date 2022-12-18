@@ -17,4 +17,9 @@ public class Login extends AppCompatActivity {
         Intent i = new Intent(Login.this, Forget.class);
         startActivity(i);
     }
+    public void gotoHomepage(View v){
+        Intent i = new Intent(Login.this, Homepage.class);
+        startActivity(i);
+    }
+
 }

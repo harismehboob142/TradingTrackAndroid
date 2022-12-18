@@ -3,4 +3,13 @@
     <string name="password">Password</string>
     <string name="underline_text"><u>Already have a account? Login</u></string>
     <string name="forget_text"><u>Forgot Password?</u></string>
+    <string-array name="pairs">
+        <item>EURUSD</item>
+        <item>EURAUD</item>
+        <item>GBPUSD</item>
+        <item>AUDJPY</item>
+        <item>GBPCAD</item>
+        <item>AUDUSD</item>
+        <item>XAUUSD</item>
+    </string-array>
 </resources>
